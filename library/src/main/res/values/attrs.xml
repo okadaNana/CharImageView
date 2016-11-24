@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CharImageView">
+        <attr name="civ_background_color" format="color"/>
+        <attr name="civ_text" format="string"/>
+        <attr name="civ_text_color" format="color"/>
+        <attr name="civ_text_size" format="dimension"/>
+    </declare-styleable>
+
+</resources>
